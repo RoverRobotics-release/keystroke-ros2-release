@@ -1,3 +1,26 @@
+## keystroke (crystal) - 0.1.1-5
+
+The packages in the `keystroke` repository were released into the `crystal` distro by running `/usr/local/bin/bloom-release --rosdistro crystal --track crystal keystroke --edit` on `Thu, 18 Apr 2019 05:26:11 -0000`
+
+The `keystroke` package was released.
+
+Version of package(s) in repository `keystroke`:
+
+- upstream repository: https://github.com/RoverRobotics/ros2-keystroke.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `0.1.1-4`
+- new version: `0.1.1-5`
+
+Versions of tools used:
+
+- bloom version: `0.8.0`
+- catkin_pkg version: `0.4.11`
+- rosdep version: `0.15.1`
+- rosdistro version: `0.7.3`
+- vcstools version: `0.1.40`
+
+
 ## keystroke (crystal) - 0.1.1-4
 
 The packages in the `keystroke` repository were released into the `crystal` distro by running `/usr/local/bin/bloom-release --rosdistro crystal --track crystal keystroke --edit` on `Thu, 18 Apr 2019 05:17:25 -0000`
