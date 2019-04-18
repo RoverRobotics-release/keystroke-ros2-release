@@ -1,0 +1,10 @@
+ros-crystal-keystroke (0.1.1-3bionic) bionic; urgency=high
+
+  * Pull setup info from package.xml
+  * Add a ROS2 launch file
+  * Add node that listens for keystrokes
+  * Initial commit
+
+ -- Dan Rose <dan@digilabs.io>  Wed, 17 Apr 2019 05:00:00 -0000
+
+
