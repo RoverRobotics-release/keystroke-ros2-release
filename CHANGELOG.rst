@@ -2,6 +2,10 @@
 Changelog for package keystroke
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.2 (2019-04-23)
+------------------
+* Fix the build under ubuntu (maybe?)
+
 0.2.1 (2019-04-19)
 ------------------
 * Explicitly document python version
