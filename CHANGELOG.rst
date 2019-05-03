@@ -2,6 +2,14 @@
 Changelog for package keystroke
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.3.0 (2019-05-03)
+------------------
+* Fix crash on headless Linux server
+* Fix crash on unknown keyboard key
+* Reduce default linear scale
+* Setup script tweaks
+* Change license to BSD
+
 0.2.2 (2019-04-23)
 ------------------
 * Fix the build under ubuntu (maybe?)
